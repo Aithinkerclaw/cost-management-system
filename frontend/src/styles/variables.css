@@ -1,0 +1,18 @@
+:root {
+  --primary-color: #1A73E8;
+  --primary-light: #4A90E2;
+  --primary-dark: #0D47A1;
+  --warning-color: #FF9800;
+  --danger-color: #F44336;
+  --success-color: #4CAF50;
+  --bg-color: #F5F7FA;
+  --sidebar-width: 220px;
+  --header-height: 60px;
+  --card-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  --border-radius: 8px;
+
+  /* 状态色 */
+  --status-good: #4CAF50;
+  --status-normal: #FF9800;
+  --status-danger: #F44336;
+}
