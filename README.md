@@ -87,8 +87,8 @@ cd frontend && npm run dev
 
 ## 📄 文档
 
-- [产品需求文档 PRD](./deliverables/PRD-V1.md)
-- [系统架构设计](./deliverables/ARCHITECTURE-V1.md)
+- [产品需求文档 PRD](./PRD-国家标准对齐-v2.0.md)
+- [系统架构设计](./架构设计-v2.0.md)
 
 ---
 
