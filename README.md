@@ -2,6 +2,14 @@
 
 > 创新型中小企业成本管理系统 - 基于「1+6+1」功能架构的 SaaS 成本管理平台
 
+## 🌐 在线演示（GitHub Pages）
+
+无需安装，浏览器直接访问 UI 预览：
+
+👉 **https://aithinkerclaw.github.io/cost-management-system/**
+
+> 说明：Pages 仅托管前端静态构建，**不连接后端数据库**。可查看完整界面与交互，登录与实时数据需在本地 `npm run dev` 启动后端后体验（见下方「快速开始」）。
+
 ## 🚀 快速开始
 
 ### 前置要求
